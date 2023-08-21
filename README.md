@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushujan&label=Profile%20views&color=0e75b6&style=flat" alt="anushujan" /> </p>
 
-- 📖 Currently learning **JavaScript, ReactNative**
+- 📖 Currently learning **JavaScript,React and ReactNative**
 
 - 💬 Ask me about **Android studio, java**
 
