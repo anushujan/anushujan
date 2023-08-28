@@ -1,21 +1,24 @@
+<h1>🤔 About me?</h1>
 <h1 align="center">Hi ✌🏽, I'm Anushujan Satkunarasa</h1>
-<h3 align="center">Freelance Software Developer from Srilanka</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">Front-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushujan&label=Profile%20views&color=0e75b6&style=flat" alt="anushujan" /> </p>
 
-- 📖 Currently learning **JavaScript,React and ReactNative**
+- 🎓 I'm currently following Bsc(Hons) Software Engineering
 
-- 💬 Ask me about **JavaScript, React**
+- 📖 I'm currently learning JavaScript, React, NodeJS
 
-- 📮 How to reach me **anushujan28@gmail.com**
+- 💬 Ask me about HTML, CSS, Java Script
+
+- 📮 reach me **anushujan28@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social media</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/anushujansatkunarasa/](https://www.linkedin.com/in/anushujansatkunarasa/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushujansatkunarasa/" height="30" width="40" /></a>
-<a href="https://instagram.com/anushujansatkunarasa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anushujansatkunarasa" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC_sndH7eiQFJcikNSQ0QMHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anushujan satkunarasa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC_sndH7eiQFJcikNSQ0QMHA" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg"/></a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anushujansatkunarasa/" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/anushujansatkunarasa" target="blank"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
