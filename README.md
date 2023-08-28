@@ -6,11 +6,10 @@
 
 - 📖 Currently learning **JavaScript,React and ReactNative**
 
-- 💬 Ask me about **Android studio, java**
+- 💬 Ask me about **JavaScript, React**
 
 - 📮 How to reach me **anushujan28@gmail.com**
-  
-- 🤪 Fun fact **I'm funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
