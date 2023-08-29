@@ -30,11 +30,7 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" width="70" height="26"/></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="80" height="28"/> </a> 
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="figma" width="80" height="28"/> </a> 
-
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushujan&show_icons=true&locale=en&layout=compact" alt="anushujan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anushujan&show_icons=true&locale=en" alt="anushujan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anushujan&" alt="anushujan" /></p>
