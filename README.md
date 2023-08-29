@@ -20,7 +20,7 @@
 <a href="https://instagram.com/anushujansatkunarasa" target="blank"><img height="32" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<h3 align="left">💻 Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools</h3>
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"  width="80" height="28"/> </a> 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80" height="27"/> </a>  
