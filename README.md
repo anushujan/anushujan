@@ -1,6 +1,6 @@
 <h1>🤔 About me?</h1>
 <h1 align="center">Hi ✌🏽, I'm Anushujan Satkunarasa</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushujan&label=Profile%20views&color=0e75b6&style=flat" alt="anushujan" /> </p>
 
