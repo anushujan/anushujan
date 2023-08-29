@@ -13,9 +13,9 @@
 - 📮 reach me **anushujan28@gmail.com**
 
 
-<h3 align="left">Social media</h3>
+<h3 align="left">🌐 Social media</h3>
 <p align="left">
-🌐<a href="https://www.youtube.com/channel/UC_sndH7eiQFJcikNSQ0QMHA" target="blank"><img height="32" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
+<a href="https://www.youtube.com/channel/UC_sndH7eiQFJcikNSQ0QMHA" target="blank"><img height="32" width="100" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/anushujansatkunarasa/" target="blank"><img height="32" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;                                                                     
 <a href="https://instagram.com/anushujansatkunarasa" target="blank"><img height="32" width="110" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
