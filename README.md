@@ -26,11 +26,18 @@
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="80" height="27"/> </a>  
 <a href="https://www.javascript.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" width="118" height="28"/> </a> 
 <a href="https://react.dev" target="_blank" rel="noreferrer"><img img height="28" width="80" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB alt="react"/></a> 
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img img width="80" height="28"  src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" width="70" height="26"/></a>
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"><img img height="28" width="95" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white alt="node"/></a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" width="80" height="28"/></a>
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php" width="70" height="28"/></a>
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java" width="60" height="28"/></a>
+
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma" width="80" height="28"/> </a> 
 <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="figma" width="80" height="28"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anushujan&show_icons=true&locale=en&layout=compact" alt="anushujan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anushujan&theme=gotham&hide_border=true&include_all_commits=false&count_private=false"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=anushujan&theme=gotham&hide_border=true"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushujan&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/></p>
+
 
