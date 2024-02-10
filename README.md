@@ -6,9 +6,9 @@
 
 - 🎓 I'm currently following **Bsc(Hons) Software Engineering**
 
-- 📖 I'm currently learning **JavaScript, React and NodeJS**
+- 📖 My skill **JavaScript, React, NodeJS, Laravel, Tailwindcss, Bootstarp Version Control [Bitbucket,Github], Hostinger**
 
-- 💬 Ask me about **HTML, CSS and Java Script**
+- 💬 Ask me about **Reactjs, Tailwindcss, Laravel, Bootstrap **
 
 - 📮 reach me **anushujan28@gmail.com**
 
