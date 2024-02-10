@@ -6,7 +6,7 @@
 
 - 🎓 I'm currently following **Bsc(Hons) Software Engineering**
 
-- 📖 My skill **JavaScript, React, NodeJS, Laravel, Tailwindcss, Bootstarp Version Control [Bitbucket,Github], Hostinger**
+- 📖 My skill **JavaScript, React, NodeJS, Laravel, Tailwindcss, Bootstarp, Version Control [Bitbucket,Github], Hostinger**
 
 - 💬 Ask me about **Reactjs, Tailwindcss, Laravel, Bootstrap **
 
