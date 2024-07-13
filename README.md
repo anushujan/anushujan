@@ -2,7 +2,7 @@
 
 
   <a href="https://github.com/geekyshow1?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
+     <img align="right" src="https://img.shields.io/github/followers/anushujan?label=Followers&style=social" alt="followers-count">
   </a>
 
 <h1>🤔 About me?</h1>
