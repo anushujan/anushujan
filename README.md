@@ -1,5 +1,9 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)](#)
 
+ <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/geekyshow1/geekyshow1/main/rajp.png">
+  <a href="https://github.com/geekyshow1?tab=followers">
+     <img align="right" src="https://img.shields.io/github/followers/geekyshow1?label=Followers&style=social" alt="followers-count">
+  </a>
 
 <h1>🤔 About me?</h1>
 <h1 align="center">Hi ✌🏽, I'm Anushujan Satkunarasa</h1>
