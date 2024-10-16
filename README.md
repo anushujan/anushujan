@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg)](#)
+[![MasterHead](https://github.com/user-attachments/assets/3fb0a535-b073-4487-95a2-45351718bbe3)](#)
 
 
   <a href="https://github.com/geekyshow1?tab=followers">
