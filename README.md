@@ -13,11 +13,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anushujan&label=Profile%20views&color=0e75b6&style=flat" alt="anushujan" /> </p>
 
-- 🎓 I'm currently following **Bsc(Hons) Software Engineering**
+- 🎓 I completed **Bsc(Hons) Software Engineering**
 
-- 📖 My skill **JavaScript, React, NodeJS, Laravel, Tailwindcss, Bootstarp, Version Control [Bitbucket,Github], Hostinger**
+- 📖 My skill **JavaScript, React, NodeJS, NextJS,AWS, Linode, EC2, Apmplify, S3bucket Laravel, Tailwindcss, Bootstarp, Version Control [Bitbucket,Github], Hostinger**
 
-- 💬 Ask me about **Reactjs, Tailwindcss, Laravel, Bootstrap **
+- 💬 Ask me about **Nextjs, Tailwindcss, Nodejs, MERN Stack, AWS, linode **
 
 - 📮 reach me **anushujan28@gmail.com**
 
